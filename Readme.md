@@ -9,6 +9,10 @@ Frost formation on car  windows can cause significant damage to both residential
 
 This project aims to provide a simple tool to predict if frost will occur to give users time to take the appropriate measures beforehand.  
 
+### Features 
+- Frost prediction: Predicts the probability of frost forming based on real-time outdoor data 
+- Data Input: Users can manually enter data (temperature, humidity, wind speed) or use a location API to automatically retrieve weather information for an immediate frost likelihood prediction.
+- Web Application: Accesible through a web interface, making it easy for users to get frost predictions on various devices 
 
 
 
