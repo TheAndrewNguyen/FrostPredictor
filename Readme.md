@@ -14,5 +14,8 @@ This project aims to provide a simple tool to predict if frost will occur to giv
 - Data Input: Users can manually enter data (temperature, humidity, wind speed) or use a location API to automatically retrieve weather information for an immediate frost likelihood prediction.
 - Web Application: Accesible through a web interface, making it easy for users to get frost predictions on various devices 
 
+### Team
+- Andrew Nguyen – Developer, Computer Science, University of Washington Bothell
+- Dylan Song – Data Scientist, Informatics, University of Washington
 
 
